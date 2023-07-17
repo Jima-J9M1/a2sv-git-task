@@ -1,0 +1,5 @@
+# Git Tutorial
+# Git merge and rebase
+# To merge a branch to main repo
+# first checkout to main branch and use git merge branch_name
+
