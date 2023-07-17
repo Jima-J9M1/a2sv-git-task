@@ -1,4 +1,4 @@
 # Git tutorial
 # Git init
 # Git remot add origin URL
-
+# git commit -m "message(should be present tense)"
