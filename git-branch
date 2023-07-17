@@ -1,0 +1,7 @@
+# Git Tutorial/ branch 
+# Two ways to create git branch
+# 1. git checkout -b [your-name].NewFile ----[create and also chechout out to the branch]
+# 2. git branch [your-name].NewFile --- on create
+#  2.1 git checkout branch_name ---- after you create using the second way then checkout using this command.
+
+
