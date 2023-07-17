@@ -1,0 +1,4 @@
+# Git tutorial 
+# Git reset 
+# find the commit you want to change and discard others commit from the point you want to fix
+# command git reset commit_ID
