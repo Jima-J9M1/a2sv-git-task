@@ -1,5 +1,0 @@
-# Git tutorial
-# git add . or specific file eg git add .(all file) and git add file.txt(specific file)
-# git commit -m 'update file.txt'
-# git push
-
