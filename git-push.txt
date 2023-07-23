@@ -1,4 +1,12 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+# git tutorial
+>>>>>>> Stashed changes
+=======
+# git tutorial
+>>>>>>> Stashed changes
 =======
 # git tutorial
 >>>>>>> Stashed changes

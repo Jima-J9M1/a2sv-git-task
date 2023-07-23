@@ -1,0 +1,2 @@
+# Git Tutorial
+git status with -s to show with single line
