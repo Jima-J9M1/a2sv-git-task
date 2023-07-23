@@ -1,0 +1,4 @@
+# Git tutorial
+git merge
+fast forward merge - move the master pointer to the end of the branch if the branchs arenot diverge 
+
