@@ -1,2 +1,0 @@
-# Git Tutorial
-Git log with oneline
